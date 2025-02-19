@@ -1,0 +1,26 @@
+# Системные файлы
+bin/
+obj/
+.vscode/
+.idea/
+*.user
+*.suo
+*.rsuser
+*.sln.docstates
+
+# Кэш и зависимости
+node_modules/
+packages/
+TestResults/
+.nuget/
+.DS_Store
+
+# Конфиги и логи
+appsettings.json
+appsettings.Development.json
+logs/
+*.log
+.env
+
+# Секретные файлы
+secrets.json
