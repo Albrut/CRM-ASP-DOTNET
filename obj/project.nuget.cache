@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JUZhGg1rGLc=",
+  "success": true,
+  "projectFilePath": "/home/albert/dotnetProject/MyAspNetApp/MyAspNetApp.csproj",
+  "expectedPackageFiles": [
+    "/home/albert/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/home/albert/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/home/albert/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.1/microsoft.aspnetcore.app.ref.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
